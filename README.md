@@ -2,6 +2,10 @@
   @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap');
   
   /* Aggressively override GitHub Pages default themes */
+  header, footer, .page-header, .site-header, .project-name {
+    display: none !important;
+  }
+  
   body, html, .wrapper, .container-lg, main, .markdown-body {
     background-color: #fff0f3 !important;
     background-image: radial-gradient(at 0% 0%, hsla(347,100%,88%,1) 0px, transparent 50%),
