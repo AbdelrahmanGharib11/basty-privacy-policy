@@ -281,6 +281,6 @@
   <div class="footer-cta">
     <h2 style="font-size: 36px; color: #590d22; font-weight: 800; margin-bottom: 15px;">Have questions?</h2>
     <p style="font-size: 20px; color: #ff4d6d; font-weight: 500; margin-bottom: 30px;">We're always here to help you out.</p>
-    <a href="contact_us.md" class="primary-btn">Contact Support 🚀</a>
+    <a href="contact_us.html" class="primary-btn">Contact Support 🚀</a>
   </div>
 </div>
